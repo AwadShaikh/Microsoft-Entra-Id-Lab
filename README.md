@@ -1,17 +1,16 @@
-# Microsoft-Entra-Id-Lab
-Microsoft Entra Id Lab
+# Microsoft-Entra-ID-Lab
+Microsoft Entra ID Lab
 # Attack-Simulation-# Microsoft-Defender-Labs
 
 
 <h2>Description</h2>
-The attack simulation training feature within the Microsoft Defender portal allows organizations to execute realistic attack scenarios for training purposes. These simulated attacks serve to identify and locate vulnerable users preemptively, helping to mitigate potential impacts on the organization's performance before a genuine attack occurs.
+Microsoft Entra ID Protection assists organizations in detecting, examining, and addressing identity-related vulnerabilities. These risks can be integrated into tools such as Conditional Access for access control decisions, or shared with security information and event management (SIEM) tools for deeper analysis and correlation.
 <br />
 
 
 <h2>Languages and Utilities Used</h2>
 
-Microsoft Defender 
-
+Microsoft Entra ID
 <h2>Environments Used </h2>
 
 - <b>MacOS Big Sur </b> 
