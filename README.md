@@ -38,8 +38,8 @@ Sign in log details :  <br/>
 <img src="https://imgur.com/Uq4BLGF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Selecting page template :  <br/>
-<img src="https://imgur.com/kSmOElz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Enabling Password protection  :  <br/>
+<img src="https://imgur.com/JcwLe7b.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
  Launching simulation :  <br/>
