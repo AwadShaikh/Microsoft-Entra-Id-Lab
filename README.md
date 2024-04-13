@@ -1,6 +1,5 @@
 # Microsoft-Entra-ID-Lab
 Microsoft Entra ID Lab
-# Attack-Simulation-# Microsoft-Defender-Labs
 
 
 <h2>Description</h2>
